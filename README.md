@@ -1,8 +1,8 @@
 ## Android on TinkerEdgeR
 
-###1. Download android image from [Asus web page](https://tinker-board.asus.com/download-list.html). At the time, it was Android 9 (1.0.6)
+### 1. Download android image from [Asus web page](https://tinker-board.asus.com/download-list.html). At the time, it was Android 9 (1.0.6)
 
-###2. Flash it:
+### 2. Flash it:
 - If flashing for first time, follow [instructions](https://tinker-board.asus.com/doc_er.html#Flashing_the_Tinker_Edge_R)
 - Having Debian already installed:
 `adb restart bootloader`
